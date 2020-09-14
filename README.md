@@ -11,7 +11,7 @@
 
 ### I am Jimmy Morales
 - Android Tech Lead @ XumaK.
-- GDG Guatemala co-oganizer.
+- GDG Guatemala co-organizer.
 - Universidad Galileo DSC Lead.
 - Kotlin fan 🤩
 - Love to share with local tech community 💻
